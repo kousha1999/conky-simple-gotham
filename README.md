@@ -9,7 +9,7 @@ Annnnnnd Here it is.
 !Do Not Forget to install Conky Manager Before
 
 Just copy both of folders into below directory:
-/home/<username>/.conky
+`/home/YourUsername/.conky`
 If you can't see .conky, just use Ctrl + H to see hidden folders.
 
 
