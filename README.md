@@ -1,4 +1,4 @@
-# conky-simple-gotham
+# conky simple gotham
 Hey Guys
 
 I just got boared and tried to play with Gotham Conky
