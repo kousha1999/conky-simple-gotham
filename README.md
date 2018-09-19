@@ -6,7 +6,7 @@ Annnnnnd Here it is.
 
 2 Conky with a little changes and have fun :D
 # Installation
-!Do Not Forget to install Conky Manager Before
+<b>Do Not Forget to install Conky Manager Before
 
 Just copy both of folders into below directory:
 `/home/YourUsername/.conky`
